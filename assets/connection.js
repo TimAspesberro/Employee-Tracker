@@ -31,7 +31,7 @@ const viewEmployees = () => {
       });
 };
 
-const addDept = () => {
+const addDeptartment = () => {
 
 };
 
